@@ -1,5 +1,5 @@
 ## HR-Dashboard-RWFD 🔍📊
-Welcome to my GitHub repository for an interactive HR dashboard using Tableau! This project aims to provide insightful data visualizations that answer key questions about data.world's Real World, Fake Data HR Dataset. The link to the original dataset can be found here.
+Welcome to my GitHub repository for an interactive HR dashboard using Tableau! This project aims to provide insightful data visualizations that answer key questions about data.world's Real World, Fake Data HR Dataset. 
 
 ### Key Questions ❓
 * What is the employee turnover rate by department? 🔄
@@ -14,7 +14,7 @@ Welcome to my GitHub repository for an interactive HR dashboard using Tableau! T
 * What is the distribution of employees by education field? 📊
 
 ### Data Source 📝
-The original data for this project is stored in an Excel sheet, which will be uploaded to this repository. The data has been anonymized and sanitized to ensure the privacy and confidentiality of our employees.
+The original data for this project is data.world's Real World, Fake Data HR Dataset, which is stored in an Excel sheet. The link to the original dataset can be found here.
 
 ### Dashboard Preview 👀
 Check out the interactive HR dashboard here. This dashboard provides a visually appealing and user-friendly interface to explore the key metrics and insights of the RWFD dataset.
