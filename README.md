@@ -14,4 +14,4 @@ Welcome to my GitHub repository for an interactive HR dashboard using Tableau! T
 The original data for this project is data.world's Real World, Fake Data HR Dataset, which is stored in an Excel sheet. The link to the original dataset can be found [here](https://sonsofhierarchies.com/2023/02/07/rwfd-season-2-part-5-diversity-dashboard/)
 
 ### Dashboard Preview 👀
-Check out the interactive HR dashboard here. This dashboard provides a visually appealing and user-friendly interface to explore the key metrics and insights of the RWFD dataset.
+Check out the interactive HR dashboard [here](https://public.tableau.com/views/HRDashboardRWFD_16809252626350/HRDashboardDarkMode?:language=en-US&:display_count=n&:origin=viz_share_link). This dashboard provides a visually appealing and user-friendly interface to explore the key metrics and insights of the RWFD dataset.
