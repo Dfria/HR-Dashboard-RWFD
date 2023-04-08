@@ -3,15 +3,12 @@ Welcome to my GitHub repository for an interactive HR dashboard using Tableau! T
 
 ### Key Questions ❓
 * What is the employee turnover rate by department? 🔄
-* What is the age distribution of employees by department? 🎂
-* What is the education level of employees by department? 🎓
-* What is the racial diversity of employees by department? 🌎
-* What is the marital status of employees by job role? 💍
-* What is the average age of employees by education level? 📚
-* What is the attrition rate for employees who travel frequently? 🧳
-* What is the distribution of employee job roles by department? 👥
-* What is the attrition rate by race? 🏃‍♀️🏃‍♂️
-* What is the distribution of employees by education field? 📊
+* How does the age of employees vary by department? 🎂
+* What is the education level of employees in each department? 🎓
+* How racially diverse are the employees in each department? 🌈
+* What is the marital status distribution by job role? 💍
+* Is there a correlation between frequent travel and employee attrition rate? 🧳💼
+* What is the job role distribution of employees in each department? 👥👔
 
 ### Data Source 📝
 The original data for this project is data.world's Real World, Fake Data HR Dataset, which is stored in an Excel sheet. The link to the original dataset can be found [here](https://sonsofhierarchies.com/2023/02/07/rwfd-season-2-part-5-diversity-dashboard/)
