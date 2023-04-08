@@ -14,7 +14,7 @@ Welcome to my GitHub repository for an interactive HR dashboard using Tableau! T
 * What is the distribution of employees by education field? 📊
 
 ### Data Source 📝
-The original data for this project is data.world's Real World, Fake Data HR Dataset, which is stored in an Excel sheet. The link to the original dataset can be found here.
+The original data for this project is data.world's Real World, Fake Data HR Dataset, which is stored in an Excel sheet. The link to the original dataset can be found [here](https://sonsofhierarchies.com/2023/02/07/rwfd-season-2-part-5-diversity-dashboard/)
 
 ### Dashboard Preview 👀
 Check out the interactive HR dashboard here. This dashboard provides a visually appealing and user-friendly interface to explore the key metrics and insights of the RWFD dataset.
